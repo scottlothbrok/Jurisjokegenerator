@@ -1,0 +1,85 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* max-width: 900px; */
+  box-sizing: border-box;
+  margin: 0px;
+  
+}
+
+/* .body-container {
+  align-content: center;
+} */
+
+
+.container {
+  align-self: center;
+
+}
+
+.strike {
+  font-family: cursive;
+}
+ 
+.juris {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+h4 {
+  background: cover;
+  background: rgb(255, 255, 15);
+  padding-left: 1rem;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+h5 {
+  background: rgb(22, 6, 3);
+  padding-left: 1rem;
+  color: rgb(255, 255, 15);
+  line-height: 1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+}
+
+li {
+  max-width: 800px;
+  box-shadow: 
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 1px 2px #FFEB3B;
+  font-style: italic;
+  font-size: 1em;
+}
+
+
+ul {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.get-jokes {
+  margin-top: 5px
+}
+
+label {
+  font-style: italic;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 300;
+
+}
+
+
+form {
+  margin: 10px;
+  margin-left: 0px;
+}
+
+
+
+
+
+
+
+
